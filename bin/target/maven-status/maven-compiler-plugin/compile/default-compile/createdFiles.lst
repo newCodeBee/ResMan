@@ -1,0 +1,7 @@
+pageObjects\ObjectsLogin.class
+pageObjects\ObjectsAdvisor.class
+pageObjects\ObjectsBoardRoom.class
+resources\Login.class
+pageObjects\ObjectsProspect.class
+resources\BrowserInvocation.class
+ResMan\RegressionE2E\App.class

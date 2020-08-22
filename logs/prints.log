@@ -1,0 +1,3 @@
+18:28:19.225 [main] INFO  resources.BrowserInvocation - Navigate to Resident detail page
+18:28:40.567 [main] INFO  resources.BrowserInvocation - transaction is made now checking if success
+18:28:40.655 [main] INFO  resources.BrowserInvocation - Transaction is success

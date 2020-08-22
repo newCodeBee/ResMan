@@ -1,0 +1,6 @@
+18:27:22.493 [main] INFO  resources.BrowserInvocation - Driver is initialised
+18:27:36.563 [main] INFO  resources.BrowserInvocation - Loggin in and closing the advisor
+18:27:45.009 [main] INFO  resources.BrowserInvocation - Save button of prospect is successfully clicked
+18:27:49.501 [main] INFO  resources.BrowserInvocation - closing browser
+18:28:07.628 [main] INFO  resources.BrowserInvocation - Loggin in and closing the advisor
+18:28:07.924 [main] INFO  resources.BrowserInvocation - Hovering the Account and clicking resident

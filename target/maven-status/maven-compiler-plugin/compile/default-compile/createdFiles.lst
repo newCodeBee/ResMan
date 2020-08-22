@@ -1,0 +1,15 @@
+pageObjects\ObjectsNewTransactions.class
+pageObjects\ObjectsBoardRoom.class
+resources\Login.class
+pageObjects\ObjectProspectDetail.class
+pageObjects\ObjectResidentList.class
+pageObjects\ObjectsProspect.class
+pageObjects\ObjectsNewApplicant.class
+pageObjects\ObjectsResidentDetails.class
+pageObjects\ObjectsApplicantDetail.class
+pageObjects\ObjectsLogin.class
+resources\ReusableFunctions.class
+pageObjects\ObjectsAvailUnitPopup.class
+pageObjects\ObjectsAdvisor.class
+pageObjects\ObjectsProspectList.class
+resources\BrowserInvocation.class
